@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vitalii Hural</h1>
+<h1 align="center">Hi 👋, I'm Vitalii</h1>
 <h3 align="center">Computer Science student with interest in modern technologies and programming.</h3>
 
 - 🌱 I’m currently learning **Python**
