@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vitalii</h1>
 <h3 align="center">Computer Science student with interest in modern technologies and programming.</h3>
 
-- 🌱 I’m currently learning **Python(FastAPI)**
-
 - 📫 How to reach me **huralvitalii@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
